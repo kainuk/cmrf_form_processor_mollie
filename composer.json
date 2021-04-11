@@ -17,6 +17,7 @@
     "require": {
         "drupal/cmrf_core": "*",
         "drupal/webform": "6.*",
-        "drupal/cmrf_form_processor": "*"
+        "drupal/cmrf_form_processor": "*",
+        "drupal/mollie": "*"
     }
 }
