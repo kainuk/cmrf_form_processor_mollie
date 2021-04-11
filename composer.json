@@ -1,0 +1,22 @@
+{
+    "name": "drupal/cmrf_form_processor_mollie",
+    "type": "drupal-module",
+    "description": "Mollie plugin for the CMRF Form Processor",
+    "keywords": [
+        "Drupal",
+        "CiviCRM",
+        "Webform"
+    ],
+    "homepage": "https://www.drupal.org/project/cmrf_form_processor_mollie",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name" : "Klaas Eikelboom",
+            "email" : "klaas.eikelboom@civicoop.org"
+        }    ],
+    "require": {
+        "drupal/cmrf_core": "*",
+        "drupal/webform": "6.*",
+        "drupal/cmrf_form_processor": "*"
+    }
+}
